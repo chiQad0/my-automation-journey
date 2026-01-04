@@ -1,0 +1,5 @@
+Report for: day_2
+------------------------------
+'pathlib_learn.py' is a file. 
+file extension : '.py' 
+File name : 'pathlib_learn' 

@@ -1,0 +1,5 @@
+Report anaysis for: 'read_txt.py'
+******************************
+Lines: 32 
+Words: 123 
+Characters: 1047 
